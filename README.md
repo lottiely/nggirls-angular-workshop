@@ -1,3 +1,7 @@
+# ngGirls Workshop
+5/11/2018
+This project was made during an ngGirls Workshop at Google HQ in Mountain view. It followed [this](https://ng-girls.gitbook.io/todo-list-tutorial/) tutorial which gives a detailed overview of the basics of Angular.
+
 # TodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
